@@ -12,10 +12,6 @@ export default function Footer() {
             <span className="text-primary">.</span>
           </a>
 
-          <p className="text-xs sm:text-sm text-muted flex items-center gap-1.5">
-            Built with <Heart size={12} className="text-primary fill-primary" />{" "}
-            by Ali Arslan Zakir
-          </p>
 
           <div className="flex items-center gap-4 sm:gap-6">
             <a
@@ -27,7 +23,7 @@ export default function Footer() {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/arslan-ارسلان-5423b1240"
+              href="www.linkedin.com/in/arslan-ارسلان-5423b1240"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs sm:text-sm text-muted hover:text-primary transition-colors"

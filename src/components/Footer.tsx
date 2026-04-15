@@ -23,7 +23,7 @@ export default function Footer() {
               GitHub
             </a>
             <a
-              href="www.linkedin.com/in/arslan-ارسلان-5423b1240"
+              href="https://www.linkedin.com/in/arslan-%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86-5423b1240"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs sm:text-sm text-muted hover:text-primary transition-colors"
